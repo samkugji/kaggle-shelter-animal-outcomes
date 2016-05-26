@@ -4,7 +4,7 @@ To predict(classification) outcome using a dataset of intake information includi
 [link to kaggle](https://www.kaggle.com/c/shelter-animal-outcomes)
 
 ### install pakages
-'''
+```
 $ pip install -r requirements.txt
-'''
+```
 
