@@ -1,2 +1,6 @@
 -r production.txt
 ipython
+pandas
+numpy
+seaborn
+sklearn
